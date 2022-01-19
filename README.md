@@ -7,4 +7,4 @@ Hello, I'm Tapaj.
 
 ---
 
-![Tapaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapaj&hide=contribs,prs)
+![Tapaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapaj&hide=contribs,prs&theme=onedark)
